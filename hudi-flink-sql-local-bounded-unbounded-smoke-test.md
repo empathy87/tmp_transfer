@@ -1,3 +1,8 @@
+
+'hoodie.write.lock.provider' =
+        'org.apache.hudi.client.transaction.lock.InProcessLockProvider'
+
+        
 # Local Flink SQL Client + Hudi Smoke Test
 
 This document verifies the simplest local Flink-to-Hudi workflow in two stages:
